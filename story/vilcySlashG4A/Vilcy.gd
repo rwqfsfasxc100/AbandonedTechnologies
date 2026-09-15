@@ -70,7 +70,7 @@ func makeHighPerformanceEagle():
 	cfg.config.weaponSlot = {
 		"left":{"type":"SYSTEM_CL600P"}, 
 		"right":{"type":"SYSTEM_CL600P"}, 
-				"leftDrone":{
+		"leftDrone":{
 			"type":"SYSTEM_DND_FIX"
 		}, 
 		"rightDrone":{
