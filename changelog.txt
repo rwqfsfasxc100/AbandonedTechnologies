@@ -1,3 +1,7 @@
+[3.2.1]
+
+1=* Fixed issue with all added containers and companions with positioning on hardpoints
+
 [3.2.0]
 
 1=* Changed weaponslot modifications to use the new property handling

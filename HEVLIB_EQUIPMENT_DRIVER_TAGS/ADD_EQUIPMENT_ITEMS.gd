@@ -49,7 +49,7 @@ const scoop_e_l = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -73,7 +73,7 @@ const scoop_e_r = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -97,7 +97,7 @@ const scoop_ep_l = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -121,7 +121,7 @@ const scoop_ep_r = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -145,7 +145,7 @@ const scoop_p_l = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -169,7 +169,7 @@ const scoop_p_r = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -193,7 +193,7 @@ const scoop_l_l = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -217,7 +217,7 @@ const scoop_l_r = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -241,7 +241,7 @@ const scoop_lp_l = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -265,7 +265,7 @@ const scoop_lp_r = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -288,11 +288,11 @@ const exbig_l = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			},
 			{
 				"property":"flip",
-				"value":"true"
+				"value":true
 			}
 		]
 	}
@@ -315,7 +315,7 @@ const exbig_r = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
@@ -340,11 +340,11 @@ const exsuper_l = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			},
 			{
 				"property":"flip",
-				"value":"true"
+				"value":true
 			}
 		]
 	}
@@ -369,7 +369,7 @@ const exsuper_r = {
 		"data":[
 			{
 				"property":"position",
-				"value":"Vector2( 0, 196 )"
+				"value":Vector2( 0, 196 )
 			}
 		]
 	}
