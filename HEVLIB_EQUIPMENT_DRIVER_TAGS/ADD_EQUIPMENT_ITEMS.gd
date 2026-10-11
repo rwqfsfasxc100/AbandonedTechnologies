@@ -30,20 +30,20 @@
 # EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 # [/license]
 
-const scoop_e_l = {
+const _000 = {
 	"system":"SYSTEM_SCOOP_E-L",
+	"price":50000,
 	"name_override":"SYSTEM_SCOOP_E",
 	"manual":"SYSTEM_SCOOP_MANUAL",
-	"price":50000,
-	"alignment":"ALIGNMENT_LEFT",
 	"test_protocol":"detach",
-	"equipment_type":"EQUIPMENT_MINING_COMPANION",
-	"slot_type":"HARDPOINT",
 	"config":{
 		"id":"AbandonedTechnologies",
 		"section":"DD_MAIN_TOGGLES",
 		"entry":"addEquipment"
 	},
+	"equipment_type":"EQUIPMENT_MINING_COMPANION",
+	"slot_type":"HARDPOINT",
+	"alignment":"ALIGNMENT_LEFT",
 	"weapon_slot":{
 		"path":"res://AbandonedTechnologies/ships/modules/scoop/ScoopDockE-L.tscn",
 		"data":[
@@ -52,9 +52,10 @@ const scoop_e_l = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const scoop_e_r = {
+
+const _001 = {
 	"system":"SYSTEM_SCOOP_E-R",
 	"name_override":"SYSTEM_SCOOP_E",
 	"manual":"SYSTEM_SCOOP_MANUAL",
@@ -76,9 +77,10 @@ const scoop_e_r = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const scoop_ep_l = {
+
+const _002 = {
 	"system":"SYSTEM_SCOOP_EP-L",
 	"name_override":"SYSTEM_SCOOP_EP",
 	"manual":"SYSTEM_SCOOP_MANUAL",
@@ -100,9 +102,10 @@ const scoop_ep_l = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const scoop_ep_r = {
+
+const _003 = {
 	"system":"SYSTEM_SCOOP_EP-R",
 	"name_override":"SYSTEM_SCOOP_EP",
 	"manual":"SYSTEM_SCOOP_MANUAL",
@@ -124,9 +127,10 @@ const scoop_ep_r = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const scoop_p_l = {
+
+const _004 = {
 	"system":"SYSTEM_SCOOP_P-L",
 	"name_override":"SYSTEM_SCOOP_P",
 	"manual":"SYSTEM_SCOOP_MANUAL",
@@ -148,9 +152,10 @@ const scoop_p_l = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const scoop_p_r = {
+
+const _005 = {
 	"system":"SYSTEM_SCOOP_P-R",
 	"name_override":"SYSTEM_SCOOP_P",
 	"manual":"SYSTEM_SCOOP_MANUAL",
@@ -172,9 +177,10 @@ const scoop_p_r = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const scoop_l_l = {
+
+const _006 = {
 	"system":"SYSTEM_SCOOP_L-L",
 	"name_override":"SYSTEM_SCOOP_L",
 	"manual":"SYSTEM_SCOOP_MANUAL",
@@ -196,9 +202,10 @@ const scoop_l_l = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const scoop_l_r = {
+
+const _007 = {
 	"system":"SYSTEM_SCOOP_L-R",
 	"name_override":"SYSTEM_SCOOP_L",
 	"manual":"SYSTEM_SCOOP_MANUAL",
@@ -220,9 +227,10 @@ const scoop_l_r = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const scoop_lp_l = {
+
+const _008 = {
 	"system":"SYSTEM_SCOOP_LP-L",
 	"name_override":"SYSTEM_SCOOP_LP",
 	"manual":"SYSTEM_SCOOP_MANUAL",
@@ -244,9 +252,10 @@ const scoop_lp_l = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const scoop_lp_r = {
+
+const _009 = {
 	"system":"SYSTEM_SCOOP_LP-R",
 	"name_override":"SYSTEM_SCOOP_LP",
 	"manual":"SYSTEM_SCOOP_MANUAL",
@@ -268,9 +277,10 @@ const scoop_lp_r = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const exbig_l = {
+
+const _010 = {
 	"system":"SYSTEM_EXBIG-L",
 	"name_override":"SYSTEM_EXBIG",
 	"price":350000,
@@ -295,9 +305,10 @@ const exbig_l = {
 				"value":true
 			}
 		]
-	}
+	},
 }
-const exbig_r = {
+
+const _011 = {
 	"system":"SYSTEM_EXBIG-R",
 	"name_override":"SYSTEM_EXBIG",
 	"price":350000,
@@ -318,9 +329,10 @@ const exbig_r = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
-const exsuper_l = {
+
+const _012 = {
 	"system":"SYSTEM_EXSUPER-L",
 	"name_override":"SYSTEM_EXSUPER",
 	"price":1100000,
@@ -347,9 +359,10 @@ const exsuper_l = {
 				"value":true
 			}
 		]
-	}
+	},
 }
-const exsuper_r = {
+
+const _013 = {
 	"system":"SYSTEM_EXSUPER-R",
 	"name_override":"SYSTEM_EXSUPER",
 	"price":1100000,
@@ -372,5 +385,5 @@ const exsuper_r = {
 				"value":Vector2( 0, 196 )
 			}
 		]
-	}
+	},
 }
