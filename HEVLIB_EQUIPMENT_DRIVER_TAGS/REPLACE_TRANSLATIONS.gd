@@ -2586,5 +2586,103 @@ const TRANSLATIONS = {
 			"string": "Розгорніть, вимкнувши руку та відійшовши.\\nБуде збирати руду автоматично..\\nПараметр\tи збору можна налаштувати на вкладці Геолог.\\nВнутрішній блок переробки ущільнює руду та поповнює паливо.\\nПристикуйтеся та вимкніть параметри на вкладці «Геолог» для передачі матеріалів.\\nПовертається на станцію, коли запас палива повний або низький.\\nПри підключенні шліфувальні машини синхронізуються з вашим кораблем.\\nПорожня люлька може використовуватися для підбору дронів і рятувальних капсул.",
 			"version_hash": 0
 		}
+	},
+	"zh_CN": {
+		"SYSTEM_EXBIG": {
+			"string": "THI 星际货运箱",
+			"version_hash": 1926870609
+		},
+		"SYSTEM_EXBIG_DESC": {
+			"string": "THI 早期货运方案成功后推出的星际运输版本，专为环带之间的运输设计。它比普通 THICC 更适合矿工使用，维护方式也基本相同，但安装成本仍然很高。",
+			"version_hash": 1455905775
+		},
+		"SYSTEM_EXBIG_SPECS": {
+			"string": "货舱容量：45,000 kg / 矿物\\n额定功耗：20 MW\\n干重：5,000 kg\\n吊架质量：500 kg\\n反应质量箱：4,500 kg\\n制造商：Titan Heavy Industries，实验型改造",
+			"version_hash": 3503700140
+		},
+		"SYSTEM_EXBIG_MANUAL": {
+			"string": "自动储存已加工矿石。\\n可在地质学选项卡中选择储存的矿物。\\n需要矿物处理单元才能充分发挥作用。\\n只安装一个时会使飞船失衡。\\n禁用挂载点后可以弹射。\\n弹出的货箱会自动尝试带货返回空间站。\\n空吊架机械臂可以捕获无人机和救生舱。",
+			"version_hash": 2775218474
+		},
+		"SYSTEM_EXSUPER": {
+			"string": "实验型星际货运箱",
+			"version_hash": 1256552872
+		},
+		"SYSTEM_EXSUPER_DESC": {
+			"string": "以 THI 货运箱为基础的大型星际储存方案，容量是经典 THICC 的六倍。它需要六台竞速级姿态推进器和外置反应质量箱，因此体积和质量都很大，只适合星际运输。",
+			"version_hash": 2948027065
+		},
+		"SYSTEM_EXSUPER_SPECS": {
+			"string": "货舱容量：120,000 kg / 矿物\\n额定功耗：20 MW\\n干重：25,000 kg\\n吊架质量：500 kg\\n反应质量箱：30,000 kg\\n制造商：祖传许可（原 Titan Heavy Industries）",
+			"version_hash": 3877277216
+		},
+		"SYSTEM_EXSUPER_MANUAL": {
+			"string": "自动储存已加工矿石。\\n可在地质学选项卡中选择储存的矿物。\\n需要矿物处理单元才能充分发挥作用。\\n只安装一个时会使飞船失衡。\\n禁用挂载点后可以弹射。\\n弹出的货箱会自动尝试带货返回空间站。\\n空吊架机械臂可以捕获无人机和救生舱。",
+			"version_hash": 2775218474
+		},
+		"SYSTEM_SCOOP_E": {
+			"string": "Nakamura 原型采矿伴侣",
+			"version_hash": 3202896257
+		},
+		"SYSTEM_SCOOP_E_DESC": {
+			"string": "Nakamura NT 采矿伴侣的早期原型，使用标准挖掘器舱口而不是现代型号的研磨器。它可靠但容易失衡，会浪费反应质量，如今主要在二手市场上作为低价替代品出售。",
+			"version_hash": 645121397
+		},
+		"SYSTEM_SCOOP_E_SPECS": {
+			"string": "货舱容量：50 m^3\\n自主等级：C2\\n出厂改装：挖掘器\\n额定功耗：10 MW\\n干重：2,000 kg\\n吊架质量：500 kg\\n推进剂箱：4,000 kg\\n制造商：Nakamura",
+			"version_hash": 1957905827
+		},
+		"SYSTEM_SCOOP_EP": {
+			"string": "Nakamura P 型原型采矿伴侣",
+			"version_hash": 2898764928
+		},
+		"SYSTEM_SCOOP_EP_DESC": {
+			"string": "在早期原型的基础上加入了矿物处理单元，可在飞行中压缩矿石并回收部分反应质量，改善了原型机的续航和配平。",
+			"version_hash": 3590953176
+		},
+		"SYSTEM_SCOOP_EP_SPECS": {
+			"string": "货舱容量：50 m^3\\n自主等级：C2\\n出厂改装：挖掘器、矿物处理单元\\n额定功耗：10 MW\\n干重：2,000 kg\\n吊架质量：500 kg\\n推进剂箱：4,000 kg\\n制造商：Nakamura-Titan",
+			"version_hash": 4089966849
+		},
+		"SYSTEM_SCOOP_L": {
+			"string": "NCT Blaze 采矿伴侣",
+			"version_hash": 2037653948
+		},
+		"SYSTEM_SCOOP_L_DESC": {
+			"string": "Coherent Light 为提升 NT 伴侣效率而推出的高风险改装，用 CL-150 激光替代微波发射器，性能很高，但会让内部涡轮频繁掉电并影响自主系统。",
+			"version_hash": 1898745095
+		},
+		"SYSTEM_SCOOP_L_SPECS": {
+			"string": "货舱容量：50 m^3\\n自主等级：C2\\n出厂改装：采矿激光\\n额定功耗：30 MW\\n干重：2,000 kg\\n吊架质量：500 kg\\n推进剂箱：4,000 kg\\n制造商：Nakamura-Coherent Light-Titan",
+			"version_hash": 3842814331
+		},
+		"SYSTEM_SCOOP_LP": {
+			"string": "NCT P 型 Blaze 采矿伴侣",
+			"version_hash": 1231877883
+		},
+		"SYSTEM_SCOOP_LP_DESC": {
+			"string": "在 Blaze 型号上加入矿物处理单元，但处理单元在常规作业中会持续运行，使掉电问题更加严重。",
+			"version_hash": 1782242953
+		},
+		"SYSTEM_SCOOP_LP_SPECS": {
+			"string": "货舱容量：50 m^3\\n自主等级：C2\\n出厂改装：采矿激光、矿物处理单元\\n额定功耗：30 MW\\n干重：2,000 kg\\n吊架质量：500 kg\\n推进剂箱：4,000 kg\\n制造商：Nakamura-Coherent Light-Titan",
+			"version_hash": 1790946444
+		},
+		"SYSTEM_SCOOP_P": {
+			"string": "NT P 型采矿伴侣",
+			"version_hash": 359264876
+		},
+		"SYSTEM_SCOOP_P_DESC": {
+			"string": "Titan 的二手改装型号，配备矿物处理单元和可变容量加工货舱，适合长时间采矿作业。",
+			"version_hash": 642345260
+		},
+		"SYSTEM_SCOOP_P_SPECS": {
+			"string": "货舱容量：50 m^3\\n出厂改装：矿物处理单元\\n自主等级：C2\\n额定功耗：30 MW\\n干重：2,000 kg\\n吊架质量：500 kg\\n推进剂箱：4,000 kg\\n制造商：Nakamura-Titan",
+			"version_hash": 3971469386
+		},
+		"SYSTEM_SCOOP_MPU_MANUAL": {
+			"string": "关闭机械臂电源并移开后部署。\\n会自动收集矿石。\\n可在地质学选项卡中调整收集参数。\\n内部处理单元会压缩矿石并补充反应质量。\\n对接后在地质学选项卡中关闭相关参数，即可把加工矿石转移到母船。\\n推进剂充足或不足时会返回空间站。\\n连接后，研磨器会与母船同步。\\n空吊架机械臂可以捕获无人机和救生舱。",
+			"version_hash": 1299983116
+		}
 	}
 }
