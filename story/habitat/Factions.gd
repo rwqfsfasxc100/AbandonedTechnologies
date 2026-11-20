@@ -39,7 +39,7 @@ var newFactions = [
 var at_factions_uinit : bool = false
 func _ready():
 	if at_factions_uinit:
-		ModLoader._savedObjects[0].main_modmain.log_double_load_error(get_script().resource_path)
+		ModLoader._savedObjects[0].log_double_load_error(get_script().resource_path)
 	at_factions_uinit = true
 	factions.append_array(newFactions)
 	defaultDispositionOf.merge = {

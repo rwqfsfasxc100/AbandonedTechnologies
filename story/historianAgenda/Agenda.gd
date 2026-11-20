@@ -34,7 +34,7 @@ extends "res://story/Agenda.gd"
 var at_agenda_uinit : bool = false
 func _ready():
 	if at_agenda_uinit:
-		ModLoader._savedObjects[0].main_modmain.log_double_load_error(get_script().resource_path)
+		ModLoader._savedObjects[0].log_double_load_error(get_script().resource_path)
 	at_agenda_uinit = true
 	agendaPool.append_array(superTHICCSpecificAgenda)
 	
